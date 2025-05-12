@@ -1,0 +1,19 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 10px;
+
+    list-style: none;
+}
+
+.list li button{
+    color: rgba(255, 255, 255, 0.716);
+
+
+    padding:10px 10px;
+
+    border:none;
+    border-radius: 15px;
+}
